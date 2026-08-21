@@ -506,7 +506,7 @@ BackgroundImage.Name = "SNOOBackground"
 BackgroundImage.Size = UDim2.new(1, 0, 1, 0)
 BackgroundImage.Position = UDim2.fromOffset(0, 0)
 BackgroundImage.BackgroundTransparency = 1
-BackgroundImage.Image = "rbxassetid://922351932750"
+BackgroundImage.Image = "rbxassetid://92235193275042"
 BackgroundImage.ImageTransparency = 0
 BackgroundImage.ScaleType = Enum.ScaleType.Stretch
 BackgroundImage.ZIndex = 1
@@ -569,7 +569,7 @@ local BrandImage = Instance.new("ImageLabel")
 BrandImage.Name = "Logo"
 BrandImage.Size = UDim2.fromScale(1, 1)
 BrandImage.BackgroundTransparency = 1
-BrandImage.Image = "rbxassetid://129794615961600"
+BrandImage.Image = "rbxassetid://109807470527334"
 BrandImage.ScaleType = Enum.ScaleType.Fit
 BrandImage.Parent = BrandMark
 addCorner(BrandImage, 15)
